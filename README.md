@@ -1,5 +1,5 @@
 # Usage
-`import Grid from "./grid.js"`
+`import Grid from "./path/to/grid.js"`
 
 ```
 
